@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "./public",
+    "public": "./public/main.js",
     "headers": [{
       "source" : "**/*.@(js|html)",
       "headers" : [ {
